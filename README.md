@@ -5,3 +5,8 @@
 <img src="https://github.com/Shawenbin2001/weather-forecast-vivit/blob/main/pred_t2m_wind_24.gif" 
 [温度+风场可视化实况](pred_t2m24true.gif)
 <img src="https://github.com/Shawenbin2001/weather-forecast-vivit/blob/main/t2m24true.gif" 
+### 图片并列展示
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Shawenbin2001/weather-forecast-vivit/blob/main/pred_t2m_wind_24.gif">
+  <img src="https://github.com/Shawenbin2001/weather-forecast-vivit/blob/main/t2m24true.gif">
+</div>
